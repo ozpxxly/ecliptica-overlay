@@ -1,6 +1,6 @@
 {
-  "version": "0.7.0-beta.1",
-  "download_url": "https://github.com/ozpxxly/ecliptica-overlay/releases/download/v0.7.0-beta.1/Ecliptica-Overlay.exe",
-  "sha256": "33b66ffdb6c4b9db6680ccc7fdc9382d64c646c1ace552b7e5d398a61124cd8c",
-  "release_notes": "GitHub初回配布版。自動更新、現行オーバーレイ、記録、実績、効果音機能を収録。"
+  "version": "0.7.0-beta.2",
+  "download_url": "https://github.com/ozpxxly/ecliptica-overlay/releases/download/v0.7.0-beta.2/Ecliptica-Overlay.exe",
+  "sha256": "a660792931f81575e52a3321906d65d73522f98a14e4200d193b495532b82368",
+  "release_notes": "自動更新機能の実地検証用ベータ版。beta.1からの自己更新、SHA-256検証、再起動を確認します。"
 }
